@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_citizens"
+        android:title="Regulations on RM citizens" />
+    <item
+        android:id="@+id/btn_minors"
+        android:title="Regulations on minors" />
+    <item
+        android:id="@+id/btn_validity"
+        android:title="Check validity of your documents" />
+    <item
+        android:id="@+id/btn_foregneirs"
+        android:title="Regulations on foreign citizens" />
+    <item
+        android:id="@+id/btn_purpose"
+        android:title="Porpuse of entry documents" />
+    <item
+        android:id="@+id/btn_visas"
+        android:title="Who is requiring a visa for RM" />
+    <item
+    android:id="@+id/btn_accepted"
+    android:title="Accepted travel documents for RM" />
+    <item
+        android:id="@+id/btn_calculator"
+        android:title="Calculate period of staying" />
+    <item
+        android:id="@+id/btn_crossings"
+        android:title="Obtain the information about your crossings" />
+    <item
+        android:id="@+id/btn_permit"
+        android:title="Obtain an electronic permit for acces to border area" />
+    <item
+        android:id="@+id/btn_vehicles"
+        android:title="Rules for means of transport" />
+    <item
+        android:id="@+id/btn_assurance"
+        android:title="Buy an assurance" />
+    <item
+        android:id="@+id/btn_vinieta"
+        android:title="Pay a road toll (vinieta)" />
+    <item
+        android:id="@+id/btn_contacts"
+        android:title="Contact us" />
+    <item
+        android:id="@+id/btn_admin"
+        android:title="Admin Panel" />
+</menu>
